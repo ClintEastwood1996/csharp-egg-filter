@@ -1,0 +1,10 @@
+D:\YandexDisk\Универ\1к2с(маг)\ПК_МИС\EEG_Filter\EEG\EEG\bin\Debug\EEG.exe.config
+D:\YandexDisk\Универ\1к2с(маг)\ПК_МИС\EEG_Filter\EEG\EEG\bin\Debug\EEG.exe
+D:\YandexDisk\Универ\1к2с(маг)\ПК_МИС\EEG_Filter\EEG\EEG\bin\Debug\EEG.pdb
+D:\YandexDisk\Универ\1к2с(маг)\ПК_МИС\EEG_Filter\EEG\EEG\obj\Debug\EEG.csprojAssemblyReference.cache
+D:\YandexDisk\Универ\1к2с(маг)\ПК_МИС\EEG_Filter\EEG\EEG\obj\Debug\EEG.Form1.resources
+D:\YandexDisk\Универ\1к2с(маг)\ПК_МИС\EEG_Filter\EEG\EEG\obj\Debug\EEG.Properties.Resources.resources
+D:\YandexDisk\Универ\1к2с(маг)\ПК_МИС\EEG_Filter\EEG\EEG\obj\Debug\EEG.csproj.GenerateResource.cache
+D:\YandexDisk\Универ\1к2с(маг)\ПК_МИС\EEG_Filter\EEG\EEG\obj\Debug\EEG.csproj.CoreCompileInputs.cache
+D:\YandexDisk\Универ\1к2с(маг)\ПК_МИС\EEG_Filter\EEG\EEG\obj\Debug\EEG.exe
+D:\YandexDisk\Универ\1к2с(маг)\ПК_МИС\EEG_Filter\EEG\EEG\obj\Debug\EEG.pdb
